@@ -251,27 +251,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &396667899 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2750134701245676801, guid: dfccde14ae713e24ca057f435f91c07d,
-    type: 3}
-  m_PrefabInstance: {fileID: 2750134701638129402}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &396667900
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 396667899}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 38275191d27b636478e15ff1c1260102, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sceneToLoad: SampleScene
-  playerPosition: {x: -10.5, y: 4.0558}
-  playerStorage: {fileID: 11400000, guid: 9fd31fc31e635b14793e9471345ea9eb, type: 2}
 --- !u!1 &447656428
 GameObject:
   m_ObjectHideFlags: 0
@@ -8593,11 +8572,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SceneTransition
-      objectReference: {fileID: 0}
-    - target: {fileID: 2750134701245676801, guid: dfccde14ae713e24ca057f435f91c07d,
-        type: 3}
-      propertyPath: m_Layer
-      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2750134701245676807, guid: dfccde14ae713e24ca057f435f91c07d,
         type: 3}
