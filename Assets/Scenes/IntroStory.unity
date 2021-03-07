@@ -137,7 +137,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1076178
 RectTransform:
   m_ObjectHideFlags: 0
@@ -831,15 +831,15 @@ RectTransform:
   m_GameObject: {fileID: 972415141}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4.101475, y: 3.345, z: 1}
+  m_LocalScale: {x: 3.9236445, y: 3.4610295, z: 1}
   m_Children: []
   m_Father: {fileID: 1076178}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 449.1, y: -62.6}
-  m_SizeDelta: {x: 55.007065, y: 80.60527}
+  m_AnchoredPosition: {x: 438, y: -84}
+  m_SizeDelta: {x: 48.901398, y: 77.88292}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &972415143
 MonoBehaviour:
@@ -928,7 +928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6581049a52332b43a947270080537e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  conversation: {fileID: 11400000, guid: ea237969ab2714156b6293337aaf192d, type: 2}
+  conversation: {fileID: 11400000, guid: 2a633312615289e4a8657a503698d85a, type: 2}
   speakerLeft: {fileID: 2008606676}
   speakerRight: {fileID: 1076177}
 --- !u!1 &1016107841

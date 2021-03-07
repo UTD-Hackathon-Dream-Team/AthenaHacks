@@ -40,7 +40,7 @@ public class DialogDisplay : MonoBehaviour
             speakerUILeft.Hide();
             speakerUIRight.Hide();
             activeLineIndex = 0;
-            if(SceneManager.GetActiveScene().buildIndex == 2) SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+            if(SceneManager.GetActiveScene().buildIndex == 2 || SceneManager.GetActiveScene().buildIndex == 7) SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
             else  SceneManager.LoadScene(0);
         }
     }

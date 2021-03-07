@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: Setup
   m_EditorClassIdentifier: 
   speakerLeft: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-  speakerRight: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  speakerRight: {fileID: 11400000, guid: 53e8b74168dfea64aa0a2df217a672b4, type: 2}
   lines:
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
     text: Hey! It's my birthday party and I've invited all my friends!
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  - character: {fileID: 11400000, guid: 53e8b74168dfea64aa0a2df217a672b4, type: 2}
     text: Hey! We feel we might end up being late since we are still figuring out
       how to do some things
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}

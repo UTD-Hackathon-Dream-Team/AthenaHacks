@@ -16,19 +16,22 @@ MonoBehaviour:
   speakerRight: {fileID: 11400000, guid: af8f45af840678748a10a67a7f999d55, type: 2}
   lines:
   - character: {fileID: 11400000, guid: af8f45af840678748a10a67a7f999d55, type: 2}
-    text: I need help baking their cake, but I keep forgetting the quantities for
-      each ingredient!
+    text: I need help baking their cake!
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: If you create variables, you can just store the quantities once and use
-      those instead of having to memorize them!
+    text: I keep forgetting the quantities for each ingredient ;-;
   - character: {fileID: 11400000, guid: af8f45af840678748a10a67a7f999d55, type: 2}
+    text: 'If you create variables, you can just store the quantities once and use
+      these instead of having to memorize the quantities every time you use them '
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
     text: How do I create variables?
-  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: "You simply type \nflour = \"2 cups\"\nWhy don't you try creating a variable
-      for 1 cup of sugar?"
   - character: {fileID: 11400000, guid: af8f45af840678748a10a67a7f999d55, type: 2}
-    text: '** sugar = "1 cup" **'
+    text: 'You simply type: flour = "2 cups"
+
+      Why don''t you try creating a
+      variable for 1 cup of sugar?'
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: '** sugar = "1 cup" **'
+  - character: {fileID: 11400000, guid: af8f45af840678748a10a67a7f999d55, type: 2}
     text: That's absolutely correct!
   - character: {fileID: 11400000, guid: af8f45af840678748a10a67a7f999d55, type: 2}
     text: Thanks for helping! I should be able to bake the cake in no time now!
