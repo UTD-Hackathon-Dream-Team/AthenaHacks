@@ -6,11 +6,12 @@ public class PennyController : MonoBehaviour
 {
     private SpriteRenderer spriteRenderer;
     private Animator animator;
+    public VectorValue startingPosition;
 
     // Start is called before the first frame update
     void Start()
     {
-
+        transform.position = startingPosition.initialValue;
     }
 
     void Awake()
