@@ -8744,12 +8744,12 @@ PrefabInstance:
     - target: {fileID: 5543579477331295174, guid: 5c13c0f510288fe4fbedf401af57af5e,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.9062496
+      value: -9.89
       objectReference: {fileID: 0}
     - target: {fileID: 5543579477331295174, guid: 5c13c0f510288fe4fbedf401af57af5e,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.3125
+      value: -4.63
       objectReference: {fileID: 0}
     - target: {fileID: 5543579477331295174, guid: 5c13c0f510288fe4fbedf401af57af5e,
         type: 3}
@@ -8976,6 +8976,14 @@ PrefabInstance:
     - target: {fileID: 396667900, guid: dfccde14ae713e24ca057f435f91c07d, type: 3}
       propertyPath: sceneToLoad
       value: CookingStory
+      objectReference: {fileID: 0}
+    - target: {fileID: 396667900, guid: dfccde14ae713e24ca057f435f91c07d, type: 3}
+      propertyPath: playerPosition.x
+      value: -8
+      objectReference: {fileID: 0}
+    - target: {fileID: 396667900, guid: dfccde14ae713e24ca057f435f91c07d, type: 3}
+      propertyPath: playerPosition.y
+      value: -3.7
       objectReference: {fileID: 0}
     - target: {fileID: 2750134701245676801, guid: dfccde14ae713e24ca057f435f91c07d,
         type: 3}

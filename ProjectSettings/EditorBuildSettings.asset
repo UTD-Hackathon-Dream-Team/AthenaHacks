@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CookingStory.unity
     guid: 22d2eabd188f044b9b2a0532468a5f0b
+  - enabled: 1
+    path: Assets/Scenes/InvitesStory.unity
+    guid: c33d68e80adef0c418b08aef62c5f564
+  - enabled: 1
+    path: Assets/Scenes/MazeStory.unity
+    guid: d825c4fa6d864ad4e887258e995097ff
+  - enabled: 1
+    path: Assets/Scenes/PresentsStory.unity
+    guid: c3f78fe4e3c46df468510fdbfd318c88
   m_configObjects: {}
