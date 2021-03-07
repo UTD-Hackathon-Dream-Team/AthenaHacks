@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DialogDisplay : MonoBehaviour
 {
@@ -15,6 +16,7 @@ public class DialogDisplay : MonoBehaviour
         speakerUIRight = speakerRight.GetComponent<SpeakerUI>();
         speakerUILeft.Speaker = conversation.speakerLeft;
         speakerUIRight.Speaker = conversation.speakerRight;
+        AdvanceConversation();
     }
 
     // Update is called once per frame
@@ -38,6 +40,7 @@ public class DialogDisplay : MonoBehaviour
             speakerUILeft.Hide();
             speakerUIRight.Hide();
             activeLineIndex = 0;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
         }
     }
 
