@@ -23,8 +23,9 @@ MonoBehaviour:
   - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
     text: Ooh that seems not that difficult! How do I do that?
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: "You simply do\nfor gift in gift-pile:\n\twrap-gift()\nHow about you add
-      gift tags to each wrapped gift?\n"
+    text: "for gift in gift-pile:\n\twrap-gift()\n"
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: How about you add gift tags to each wrapped gift?
   - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
     text: "** for wrapped-gift in gift-pile:\n\tadd-tag() **"
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
