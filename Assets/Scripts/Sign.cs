@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class Sign : MonoBehaviour
 {
     public GameObject dialogBox;
+    public GameObject dialogBox1;
     public Text dialogText;
     public string dialog;
     public bool playerInRange;
@@ -18,11 +19,13 @@ public class Sign : MonoBehaviour
             if (dialogBox.activeInHierarchy)
             {
                 dialogBox.SetActive(false);
+                dialogBox1.SetActive(false);
             }
             else
             {
                 dialogText.text = dialog;
                 dialogBox.SetActive(true);
+                dialogBox1.SetActive(true);
             }
         }
     }
@@ -41,6 +44,7 @@ public class Sign : MonoBehaviour
         {
             playerInRange = false;
             dialogBox.SetActive(false);
+            dialogBox1.SetActive(false);
         }
     }
 }
