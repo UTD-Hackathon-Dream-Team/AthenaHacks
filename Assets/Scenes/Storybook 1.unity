@@ -928,7 +928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6581049a52332b43a947270080537e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  conversation: {fileID: 11400000, guid: ea237969ab2714156b6293337aaf192d, type: 2}
+  conversation: {fileID: 11400000, guid: ddb37a8e7de494836ab701017b97172b, type: 2}
   speakerLeft: {fileID: 2008606676}
   speakerRight: {fileID: 1076177}
 --- !u!1 &1016107841

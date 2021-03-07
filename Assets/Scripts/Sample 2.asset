@@ -16,6 +16,19 @@ MonoBehaviour:
   speakerRight: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
   lines:
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: whats up fam
+    text: "I need help wrapping all my presents but it\u2019s so tedious to keep
+      doing the same thing again and again"
   - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
-    text: nothing much hbu?
+    text: You can just use a loop to help you do the same things again and again
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: Ooh that seems not that difficult! How do I do that?
+  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+    text: "You simply do\nfor gift in gift-pile:\n\twrap-gift()\nHow about you add
+      gift tags to each wrapped gift?\n"
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: "** for wrapped-gift in gift-pile:\n\tadd-tag() **"
+  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+    text: You got it!
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: This definitely makes it  easier to not do the same thing  again and again!
+      Thanks for your help!
