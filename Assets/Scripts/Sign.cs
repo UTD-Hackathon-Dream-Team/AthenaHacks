@@ -32,8 +32,9 @@ public class Sign : MonoBehaviour
         }
     }
 
-    private void onTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
+        Debug.LogError("kms");
         if (other.CompareTag("Player"))
         {
             Debug.LogError("in range");
@@ -41,7 +42,7 @@ public class Sign : MonoBehaviour
         }
     }
 
-    private void onTriggerExit2D(Collider2D other)
+    private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
         {
