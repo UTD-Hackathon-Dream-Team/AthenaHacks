@@ -13,32 +13,36 @@ MonoBehaviour:
   m_Name: Maze
   m_EditorClassIdentifier: 
   speakerLeft: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-  speakerRight: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  speakerRight: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
   lines:
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
     text: "Hi! I saw your note about coming in the maze to pick some apples. The
       party is coming up soon so I thought I\u2019d come to check up on you as you\u2019re
       bringing the entertainment."
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  - character: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
     text: "Hi! I\u2019ve gotten lost and been stuck here for a while, thanks for
       finding me! I need to grab some more things but I\u2019d love if you could
       leave me some instructions on how to get out?"
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: How would I do that?
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
     text: "Using an array, you can store each step of how to get out from here. So
       for example you can write [\u201C5 steps right\u201D, \u201C6 steps up\u201D]
-      and I\u2019ll use them to get out!"
-  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+      and you can use them to get out!"
+  - character: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
     text: "Ok here you go: ** [\u201C2 steps up\u201D, \u201C5 steps left\u201D,
       \u201C8 steps down\u201D, \u201C10 steps right\u201D, \u201C10 steps up\u201D,
       \u201C15 steps right\u201D] **"
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
-    text: Thank you so much! Did you know arrays are typically 0th indexed? So to
-      access the first element you use arrayName[0] and the second element is arrayName[1].
-      Could you tell me what the fifth element would be?
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: '** pathArray[4] **'
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+    text: "That\u2019s right!"
+  - character: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
+    text: Thank you so much!
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: Did you know arrays are typically 0th indexed? So to access the first element
+      you use arrayName[0] and the second element is arrayName[1]. Could you tell
+      me what the fifth element would be?
+  - character: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
+    text: '** pathArray[4]**'
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: "That\u2019s right again!"
+  - character: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
     text: "Great, thanks! I will see you at the party soon! Here\u2019s an apple
       for your help."
