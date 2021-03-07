@@ -13,27 +13,27 @@ MonoBehaviour:
   m_Name: Invites
   m_EditorClassIdentifier: 
   speakerLeft: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-  speakerRight: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  speakerRight: {fileID: 11400000, guid: 3c78a54b0734d0445bb27dd3fe271cf8, type: 2}
   lines:
-  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+  - character: {fileID: 11400000, guid: 3c78a54b0734d0445bb27dd3fe271cf8, type: 2}
     text: "I need to send out all the invitations, but I\u2019m not sure who should
       get them. I just have a list of names of everyone in the town."
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
-    text: Who is invited to the party?
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: Who is invited to the party?
+  - character: {fileID: 11400000, guid: 3c78a54b0734d0445bb27dd3fe271cf8, type: 2}
     text: All the friends of my friend, Eva from the town are invited.
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
     text: 'You can use a conditional statement! They are structured as: if a condition,
       then do something.'
-  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+  - character: {fileID: 11400000, guid: 3c78a54b0734d0445bb27dd3fe271cf8, type: 2}
     text: "How would I write that up?\r"
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
-    text: "The syntax goes like:\r\nif condition == requiredCondition:\r\n\tdoSomething\r"
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: "The syntax goes like:\r\nif condition == requiredCondition:\r\n\tdoSomething\r"
+  - character: {fileID: 11400000, guid: 3c78a54b0734d0445bb27dd3fe271cf8, type: 2}
     text: "** if person == friendOfEva:\r\n\tsendInvite **\r"
-  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
     text: "Yup that\u2019s correct! That will save you time from manually doing it
       yourself."
-  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+  - character: {fileID: 11400000, guid: 3c78a54b0734d0445bb27dd3fe271cf8, type: 2}
     text: "Oh that makes sense, thanks for helping out! Here\u2019s your invite,
       I hope to see you soon!"
