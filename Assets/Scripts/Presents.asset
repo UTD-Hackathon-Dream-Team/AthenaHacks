@@ -10,25 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e0276c450c77c7c4a90fce6a0ec5c706, type: 3}
-  m_Name: Sample 1
+  m_Name: Presents
   m_EditorClassIdentifier: 
   speakerLeft: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
   speakerRight: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
   lines:
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: I need help baking their cake, but I keep forgetting the quantities for
-      each ingredient!
+    text: "I need help wrapping all my presents but it\u2019s so tedious to keep
+      doing the same thing again and again"
   - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
-    text: If you create variables, you can just store the quantities once and use
-      those instead of having to memorize them!
+    text: You can just use a loop to help you do the same things again and again
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: How do I create variables?
+    text: Ooh that seems not that difficult! How do I do that?
   - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
-    text: "You simply type \nflour = \"2 cups\"\nWhy don't you try creating a variable
-      for 1 cup of sugar?"
+    text: "You simply do\nfor gift in gift-pile:\n\twrap-gift()\nHow about you add
+      gift tags to each wrapped gift?\n"
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: '** sugar = "1 cup" **'
+    text: "** for wrapped-gift in gift-pile:\n\tadd-tag() **"
   - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
-    text: That's absolutely correct!
+    text: You got it!
   - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: Thanks for helping! I should be able to bake the cake in no time now!
+    text: This definitely makes it  easier to not do the same thing  again and again!
+      Thanks for your help!

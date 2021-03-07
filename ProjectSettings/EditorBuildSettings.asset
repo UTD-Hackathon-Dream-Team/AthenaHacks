@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/InsideHouse.unity
     guid: bada37f4b9f728a4baaf5c8360976693
   - enabled: 1
-    path: Assets/Scenes/Storybook 1.unity
+    path: Assets/Scenes/CookingStory.unity
     guid: 22d2eabd188f044b9b2a0532468a5f0b
   m_configObjects: {}
