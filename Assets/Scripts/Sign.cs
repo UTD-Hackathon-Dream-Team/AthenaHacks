@@ -9,11 +9,6 @@ public class Sign : MonoBehaviour
     public Text dialogText;
     public string dialog;
     public bool playerInRange;
-    // Start is called before the first frame update
-    void Start()
-    {
-        Debug.LogError("bitch");
-    }
 
     // Update is called once per frame
     void Update()
@@ -34,10 +29,8 @@ public class Sign : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.LogError("kms");
         if (other.CompareTag("Player"))
         {
-            Debug.LogError("in range");
             playerInRange = true;
         }
     }
@@ -48,7 +41,6 @@ public class Sign : MonoBehaviour
         {
             playerInRange = false;
             dialogBox.SetActive(false);
-            Debug.LogError("yeet");
         }
     }
 }
