@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e0276c450c77c7c4a90fce6a0ec5c706, type: 3}
   m_Name: Setup
   m_EditorClassIdentifier: 
-  speakerLeft: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-  speakerRight: {fileID: 11400000, guid: 53e8b74168dfea64aa0a2df217a672b4, type: 2}
+  speakerLeft: {fileID: 11400000, guid: 53e8b74168dfea64aa0a2df217a672b4, type: 2}
+  speakerRight: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
   lines:
-  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
-    text: Hey! It's my birthday party and I've invited all my friends!
   - character: {fileID: 11400000, guid: 53e8b74168dfea64aa0a2df217a672b4, type: 2}
+    text: Hey! It's my birthday party and I've invited all my friends!
+  - character: {fileID: 11400000, guid: 4aae8a7284d1e42ffa8b61b1c1a3fd0e, type: 2}
     text: Hey! We feel we might end up being late since we are still figuring out
       how to do some things
-  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+  - character: {fileID: 11400000, guid: 53e8b74168dfea64aa0a2df217a672b4, type: 2}
     text: I'm sure my friend over here should be able to help you out
