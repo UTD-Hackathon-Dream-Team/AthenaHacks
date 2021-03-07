@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0276c450c77c7c4a90fce6a0ec5c706, type: 3}
+  m_Name: Sample
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+  speakerRight: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 63383dd61a48e474eb9b866ca89b3c79, type: 2}
+    text: whats up fam
+  - character: {fileID: 11400000, guid: 2bd0709f735c41b4892fed59f3570081, type: 2}
+    text: nothing much hbu?
