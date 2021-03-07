@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PresentsStory.unity
     guid: c3f78fe4e3c46df468510fdbfd318c88
+  - enabled: 1
+    path: Assets/Scenes/IntroStory.unity
+    guid: 1f36ffb24d7833641a459c579138519a
   m_configObjects: {}
