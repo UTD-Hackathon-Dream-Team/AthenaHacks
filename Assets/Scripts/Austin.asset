@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed4268a4fcb972048b3f3cad34356f07, type: 3}
-  m_Name: Penny
+  m_Name: Austin
   m_EditorClassIdentifier: 
-  fullName: Penny
+  fullName: Austin
   portrait: {fileID: 21300000, guid: 0540eeb6c369e1e499fc90e6880e6bce, type: 3}
