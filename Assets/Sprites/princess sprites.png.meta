@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: 756c57eb89cca2d4e974e52366a65dd8
+guid: 4e76483204840bb40a0b748cd3e71654
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4612210509025110611
-    second: Spear Huntress Sprites_0
+      213: -3518049408318916089
+    second: princess sprites_0
   - first:
-      213: 33622454323829083
-    second: Spear Huntress Sprites_1
+      213: -2816650807060972852
+    second: princess sprites_1
   - first:
-      213: 2617350952564180129
-    second: Spear Huntress Sprites_2
+      213: 5612355857030460584
+    second: princess sprites_2
   - first:
-      213: -7567920334846473452
-    second: Spear Huntress Sprites_3
-  - first:
-      213: 3282451170925106272
-    second: Spear Huntress Sprites_4
-  - first:
-      213: 3445247796163261244
-    second: Spear Huntress Sprites_5
-  - first:
-      213: -2686569674611150333
-    second: Spear Huntress Sprites_6
-  - first:
-      213: 1838562417325736549
-    second: Spear Huntress Sprites_7
+      213: -8007912235521953535
+    second: princess sprites_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -111,13 +99,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Spear Huntress Sprites_0
+      name: princess sprites_0
       rect:
         serializedVersion: 2
-        x: 61
-        y: 53
-        width: 32
-        height: 42
+        x: 12
+        y: 9
+        width: 25
+        height: 49
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,20 +113,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da51c348af22effb0800000000000000
-      internalID: -4612210509025110611
+      spriteID: 70ab0ead3b06d2fc0800000000000000
+      internalID: -3518049408318916089
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spear Huntress Sprites_1
+      name: princess sprites_1
       rect:
         serializedVersion: 2
-        x: 211
-        y: 53
-        width: 32
-        height: 41
+        x: 76
+        y: 8
+        width: 26
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b59d27ea173777000800000000000000
-      internalID: 33622454323829083
+      spriteID: cca30d4a30f39e8d0800000000000000
+      internalID: -2816650807060972852
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spear Huntress Sprites_2
+      name: princess sprites_2
       rect:
         serializedVersion: 2
-        x: 361
-        y: 53
-        width: 32
-        height: 40
+        x: 140
+        y: 7
+        width: 27
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,20 +155,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a44e14f2d2b25420800000000000000
-      internalID: 2617350952564180129
+      spriteID: 8a4326b9ae713ed40800000000000000
+      internalID: 5612355857030460584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Spear Huntress Sprites_3
+      name: princess sprites_3
       rect:
         serializedVersion: 2
-        x: 511
-        y: 53
-        width: 32
-        height: 39
+        x: 204
+        y: 7
+        width: 26
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,92 +176,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b45015d8859f690800000000000000
-      internalID: -7567920334846473452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spear Huntress Sprites_4
-      rect:
-        serializedVersion: 2
-        x: 661
-        y: 53
-        width: 32
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0645e83e2fb9d8d20800000000000000
-      internalID: 3282451170925106272
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spear Huntress Sprites_5
-      rect:
-        serializedVersion: 2
-        x: 811
-        y: 53
-        width: 32
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c33328ded9affcf20800000000000000
-      internalID: 3445247796163261244
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spear Huntress Sprites_6
-      rect:
-        serializedVersion: 2
-        x: 961
-        y: 53
-        width: 32
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 30237707d1367bad0800000000000000
-      internalID: -2686569674611150333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Spear Huntress Sprites_7
-      rect:
-        serializedVersion: 2
-        x: 1111
-        y: 53
-        width: 32
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 562851607c2e38910800000000000000
-      internalID: 1838562417325736549
+      spriteID: 101b531ef3e2ed090800000000000000
+      internalID: -8007912235521953535
       vertices: []
       indices: 
       edges: []

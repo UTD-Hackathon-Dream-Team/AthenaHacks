@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: CS Nord
   m_EditorClassIdentifier: 
   fullName: CS Nord
-  portrait: {fileID: 21300032, guid: 0540eeb6c369e1e499fc90e6880e6bce, type: 3}
+  portrait: {fileID: -3518049408318916089, guid: 4e76483204840bb40a0b748cd3e71654,
+    type: 3}
