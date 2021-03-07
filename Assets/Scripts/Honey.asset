@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed4268a4fcb972048b3f3cad34356f07, type: 3}
-  m_Name: CS Nord
+  m_Name: Honey
   m_EditorClassIdentifier: 
-  fullName: CS Nord
+  fullName: Honey
   portrait: {fileID: -3518049408318916089, guid: 4e76483204840bb40a0b748cd3e71654,
     type: 3}
